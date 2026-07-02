@@ -1,2 +1,2 @@
-# fanaridata.com
-Fanari Data website
+# fanariventures.com
+Fanari Ventures website
